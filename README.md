@@ -17,5 +17,4 @@ The program has been designed to be as simple as possible to use for casual user
 
 The program is developed in C# and the GUI uses Microsoft WPF Framework.
 
-Currently GitHub contains a very limited preliminary version of the program limited to a library for reading KryoFlux Stream File.
-Hopefully I will publish the complete version of the program soon :)
+Latest version of Aufit source code is now available.
